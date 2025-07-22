@@ -1,52 +1,34 @@
-# Daily Routine - [DATE]
+# 📆 Date: YYYY-MM-DD
 
-## Morning Routine
-- [ ] Wake up time: ____
-- [ ] Exercise/Workout: ____
-- [ ] Breakfast: ____
-- [ ] Morning meditation/reflection: ____
-- [ ] Review daily goals: ____
+## ☀️ Morning Routine
+- [ ] Wake up at __
+- [ ] Make bed
+- [ ] Drink water
+- [ ] Stretch / Exercise
 
-## Work/Study Block
-- [ ] Priority task 1: ____
-- [ ] Priority task 2: ____
-- [ ] Priority task 3: ____
-- [ ] Breaks taken: ____
-- [ ] Focus sessions completed: ____
+## 💼 Work / Focus Blocks
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Deep work time: __ to __
 
-## Afternoon Routine
-- [ ] Lunch: ____
-- [ ] Afternoon walk/movement: ____
-- [ ] Hydration check: ____
-- [ ] Mid-day reflection: ____
+## 🍽️ Meals
+- [ ] Breakfast
+- [ ] Lunch
+- [ ] Dinner
 
-## Evening Routine
-- [ ] Dinner: ____
-- [ ] Wind-down activities: ____
-- [ ] Tomorrow's preparation: ____
-- [ ] Bedtime: ____
-- [ ] Gratitude/journaling: ____
+## 🧘 Evening Routine
+- [ ] Screen off by __
+- [ ] Journal
+- [ ] Sleep by __
 
-## Habits Tracker
-- [ ] Drink 8 glasses of water
-- [ ] Read for 30 minutes
-- [ ] No phone 1 hour before bed
-- [ ] 10,000 steps
-- [ ] Healthy eating choices
+## 🧠 Reflections
+- 🟢 Wins:
+- 🔴 Challenges:
+- 💡 Lessons:
 
-## Daily Reflection
-### What went well today?
-
-
-### What could I improve?
-
-
-### Tomorrow's focus:
-
-
-## Energy Level (1-10): ___
-## Mood (1-10): ___
-## Overall Day Rating (1-10): ___
-
----
-*Template created: [DATE]*
+## ✅ Habits
+| Habit           | Done? |
+|----------------|-------|
+| Workout        | ✅ / ❌ |
+| Water (2L)     | ✅ / ❌ |
+| No sugar       | ✅ / ❌ |
